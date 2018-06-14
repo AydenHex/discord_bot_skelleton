@@ -7,7 +7,7 @@ Welcome to the deposit of my bot discord skeleton
 
 **Tutorial**
 
-First you need to create your bot on : https://github.com/AydenHex/discord_bot_skelleton and click on "New App".
+First you need to create your bot on : https://discordapp.com/developers/applications/me and click on "New App".
 
 Then complete what you want before clicking on "Create App".
 
