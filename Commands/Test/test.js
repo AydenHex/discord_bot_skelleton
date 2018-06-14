@@ -1,7 +1,7 @@
-onst commando = require('discord.js-commando');
+const commando = require('discord.js-commando');
 const request = require('request-promise');
 
-module.exports = class Register extends commando.Command {
+module.exports = class Test extends commando.Command {
 	constructor(client) {
 		super(client, {
 			name: 'test',
@@ -9,7 +9,7 @@ module.exports = class Register extends commando.Command {
 			memberName: 'test',
 			description: "A simple test",
 			details: `Usable by all `,
-			examples: ["```! ping```"]
+			examples: ["```!ping```"]
 		})
 	}
 
