@@ -1,0 +1,26 @@
+{
+  "name": "discord_bot-skeletton",
+  "version": "1.0.0",
+  "description": "a discord bot skeletton",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AydenHex/discord_bot_skelleton.git"
+  },
+  "author": "AydenHex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AydenHex/discord_bot_skelleton/issues"
+  },
+  "homepage": "https://github.com/AydenHex/discord_bot_skelleton#readme",
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  },
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "discord.js-commando": "^0.10.0"
+  }
+}
